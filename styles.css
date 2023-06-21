@@ -1,0 +1,61 @@
+#title 
+{ 
+    background: rgb(226, 96, 118);
+    color: white;
+    padding: 30px;
+    text-align: center;
+} 
+
+.division {
+    /* TODO: Finish the code below to align the web page's content into three columns */
+    padding: 10px;
+    float: left;
+}
+
+#division1 
+{
+    /* TODO: Finish the code below to design the first division of the content */
+    margin-bottom: 10px;
+    background: rgb(155, 234, 238);
+    width: 20%;
+}
+
+#division2 {
+    /* TODO: Finish the code below to design the second division of the content */
+    margin-bottom: 10px;
+    background: beige;
+    width: 54%;
+}
+
+#division3 {
+    /* TODO: Finish the code below to design the third division of the content */
+    margin-bottom: 10px;
+    background: rgb(155, 234, 238);
+    width: 20%;
+}
+
+h2 
+{
+    /* TODO: Add the code to set the text color of the h2 tags */
+    color: blue;
+    text-align: center;
+}
+
+.paragraph 
+{
+    /* TODO: Add the code to set the text color of the paragraphs */
+    color: purple;
+    text-align: center;
+}
+
+#footer {
+    /* TODO: Finish the code below to design web page's footer */
+    position: absolute;
+    bottom: 370px;
+    left: 9px;
+    right: 9px;
+    background: rgb(226, 96, 118);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
